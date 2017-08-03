@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ndbx formatVersion="21" type="file" uuid="0f41772a-6c04-4ce4-85b4-2b456c1ec3ae">
+    <property name="canvasHeight" value="1000"/>
+    <property name="canvasWidth" value="1000"/>
+    <property name="canvasX" value="0"/>
+    <property name="canvasY" value="0"/>
+    <node name="root" prototype="core.network" renderedChild="copy3">
+        <node name="colorize1" position="2.00,5.00" prototype="corevector.colorize">
+            <port name="fill" type="color" value="#ffffffff"/>
+        </node>
+        <node name="copy1" position="2.00,7.00" prototype="corevector.copy">
+            <port name="copies" type="int" value="4"/>
+            <port name="translate" type="point" value="200.00,0.00"/>
+        </node>
+        <node name="copy2" position="2.00,3.00" prototype="corevector.copy">
+            <port name="copies" type="int" value="2"/>
+            <port name="rotate" type="float" value="45.0"/>
+        </node>
+        <node name="copy3" position="2.00,9.00" prototype="corevector.copy">
+            <port name="copies" type="int" value="4"/>
+            <port name="translate" type="point" value="0.00,200.00"/>
+        </node>
+        <node name="polygon1" position="2.00,1.00" prototype="corevector.polygon">
+            <port name="sides" type="int" value="4"/>
+        </node>
+        <conn input="copy2.shape" output="polygon1"/>
+        <conn input="colorize1.shape" output="copy2"/>
+        <conn input="copy1.shape" output="colorize1"/>
+        <conn input="copy3.shape" output="copy1"/>
+    </node>
+</ndbx>

@@ -15,6 +15,17 @@ Francisco is an Spanish Civil Engineer founder of The (fabulous) Beach Lab. Ahme
 ## Description
 In Islamic culture, geometric design is everywhere: you can find it in mosques, madrasas, palaces, and private homes. And despite the complexity of these designs, they can be created with just a compass and a ruler. In this workshop you will discover how patterns of profound beauty and subtle complexity can be created from the simplest computational generative techniques by using freely available, multi platform, open source software.
 
+## Books
+![](img/ericbroug.jpg)  
+**Islamic Geometric Patterns**  
+*Eric Broug*  
+The marvels of Islamic patterns—the most recognizable visual expression of Islamic art and architecture—are not just a beautiful accident. The ancient practitioners of this craft used traditional methods of measurement to create dazzling geometric compositions, often based on the repetition of a single pattern. The results are magnificent in their beauty and awe-inspiring in their execution.
+
+![](img/tilings.jpg)  
+**Tilings and Patterns**  
+*Branko Grünbaum, G. C. Shephard*  
+The definitive book on tiling and geometric patterns, this volume features 520 figures and over 100 tables. Accessible to anyone with a grasp of geometry, it offers illustrated examples of two-dimensional spaces covered with interlocking figures, plus related problems and references. Equally suitable for geometry courses and independent study.
+
 ## Software required
 The following open source software is required for the workshop
 
@@ -44,14 +55,3 @@ Download the applet and run in terminal
 http://www.wozzeck.net/arabeske/ara_devel.html  
 Download the file and run in terminal
 `java -jar ara-2.1.0.jar`
-
-## Books
-![](img/ericbroug.jpg)  
-**Islamic Geometric Patterns**  
-*Eric Broug*  
-The marvels of Islamic patterns—the most recognizable visual expression of Islamic art and architecture—are not just a beautiful accident. The ancient practitioners of this craft used traditional methods of measurement to create dazzling geometric compositions, often based on the repetition of a single pattern. The results are magnificent in their beauty and awe-inspiring in their execution.
-
-![](img/tilings.jpg)  
-**Tilings and Patterns**  
-*Branko Grünbaum, G. C. Shephard*  
-The definitive book on tiling and geometric patterns, this volume features 520 figures and over 100 tables. Accessible to anyone with a grasp of geometry, it offers illustrated examples of two-dimensional spaces covered with interlocking figures, plus related problems and references. Equally suitable for geometry courses and independent study.
