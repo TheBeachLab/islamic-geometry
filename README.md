@@ -1,3 +1,19 @@
+	<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Generative Design of Islamic Geometric Patterns](#generative-design-of-islamic-geometric-patterns)
+  - [About the tutors](#about-the-tutors)
+  - [Description](#description)
+  - [Books](#books)
+  - [Software required](#software-required)
+    - [Generic computational software](#generic-computational-software)
+    - [Dedicated Islamic Patterns Design software](#dedicated-islamic-patterns-design-software)
+      - [Taprats](#taprats)
+      - [Arabeske](#arabeske)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Generative Design of Islamic Geometric Patterns
 Learn how to design, generate and compute beautiful islamic geometric patterns using open source computational design software.
 
