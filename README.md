@@ -1,13 +1,18 @@
 # Generative Design of Islamic Geometric Patterns
 
+
+<!-- vim-markdown-toc GFM -->
+
 * [About the tutors](#about-the-tutors)
 * [Description](#description)
 * [Books](#books)
 * [Software required](#software-required)
-  * [Generic computational software](#generic-computational-software)
-  * [Dedicated Islamic Patterns Design software](#dedicated-islamic-patterns-design-software)
-    * [Taprats](#taprats)
-    * [Arabeske](#arabeske)
+	* [Generic computational software](#generic-computational-software)
+	* [Dedicated Islamic Patterns Design software](#dedicated-islamic-patterns-design-software)
+		* [Taprats](#taprats)
+		* [Arabeske](#arabeske)
+
+<!-- vim-markdown-toc -->
 
 Learn how to design, generate and compute beautiful islamic geometric patterns using open source computational design software.
 
